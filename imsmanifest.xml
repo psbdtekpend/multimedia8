@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6oChMXnXDzZ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Yuk, Mengenal Negara</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Penyusun :
+Iwan Feroloy S.
+TP-3A-2020
+Universitas Pendidikan Indonesia</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Yuk,_Mengenal_Negara_ORG">
+    <organization identifier="Yuk,_Mengenal_Negara_ORG">
+      <title>Yuk, Mengenal Negara</title>
+      <item identifier="Yuk,_Mengenal_Negara_SCO" isvisible="true" identifierref="__6oChMXnXDzZ_course_id_RES">
+        <title>Yuk, Mengenal Negara</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6oChMXnXDzZ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5h2Q9eeTogd_80_DX710_DY710_CX355_CY355.jpg" />
+      <file href="mobile/6RvNZMfFz4h_80_DX700_DY700_CX350_CY350.png" />
+      <file href="story_content/video_6VFRiMIhGGZ_22_48_960x540.mp4" />
+      <file href="mobile/poster_6h9o0NtJH4z_video_6VFRiMIhGGZ_22_48_960x540.jpg" />
+      <file href="mobile/5i6GC3BrJ7q_80_P_640_17_213_231_DX1370_DY1370_CX150_CY163.png" />
+      <file href="mobile/5i6GC3BrJ7q_80_P_640_17_213_231_DX1370_DY1370_CX188_CY204.png" />
+      <file href="mobile/5i6GC3BrJ7q_80_P_618_475_247_228_DX1370_DY1370_CX163_CY150.png" />
+      <file href="mobile/5i6GC3BrJ7q_80_P_618_475_247_228_DX1370_DY1370_CX189_CY174.png" />
+      <file href="mobile/6pb9AYwpCxR_80_DX1934_DY1934_CX1522_CY856.png" />
+      <file href="mobile/5jxqNqo0e9u_80_P_0_165_2048_1092_DX618_DY618_CX475_CY253.png" />
+      <file href="mobile/6A9d2NBGkYJ_80_DX98_DY98_CX77_CY50.png" />
+      <file href="mobile/5jxqNqo0e9u_80_P_0_165_2048_1092_DX620_DY620_CX487_CY260.png" />
+      <file href="mobile/5vU0HX3gM6q_80_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/5X2xDh4Lgkd_80_DX736_DY736_CX280_CY414.png" />
+      <file href="mobile/5qqyVoENhmc_80_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/5wpTciqhdz8_80_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/6X0CmgoqwYK_80_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/5fcVETKmlDJ_80_DX1600_DY1600_CX800_CY547.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6QEy7GkoAy5.png" />
+      <file href="mobile/Shape6VQ0peG0DB4.png" />
+      <file href="mobile/Shape6peGtbw5Cqw.png" />
+      <file href="mobile/Shape6pgjSgqNjYy.png" />
+      <file href="mobile/Shape6UxkBuOlXdw.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aLq6u2C3Fk.js" />
+      <file href="html5/data/js/5eE7KbdqTK6.js" />
+      <file href="html5/data/js/5eHdYM4GmHD.js" />
+      <file href="html5/data/js/5mPA47NFp9m.js" />
+      <file href="html5/data/js/5wbsPH4Dm8e.js" />
+      <file href="html5/data/js/5wV46dgjaeY.js" />
+      <file href="html5/data/js/5xtfo4sRQ1x.js" />
+      <file href="html5/data/js/62WaKaISYBH.js" />
+      <file href="html5/data/js/664cVzaHsV7.js" />
+      <file href="html5/data/js/68t8CCHoSA1.js" />
+      <file href="html5/data/js/69wXrA4Vpyn.js" />
+      <file href="html5/data/js/6Ah5YxI6rvV.js" />
+      <file href="html5/data/js/6COWTwdirfw.js" />
+      <file href="html5/data/js/6eUYpXKOBpr.js" />
+      <file href="html5/data/js/6Fd41ZG05yU.js" />
+      <file href="html5/data/js/6hBWm6IdIz5.js" />
+      <file href="html5/data/js/6HQRFi4iGbu.js" />
+      <file href="html5/data/js/6jR2S0mAr4t.js" />
+      <file href="html5/data/js/6KD9UYiHh8T.js" />
+      <file href="html5/data/js/6nFgd6hc8tz.js" />
+      <file href="html5/data/js/6ony96337QZ.js" />
+      <file href="html5/data/js/6PN5jmEZZrs.js" />
+      <file href="html5/data/js/6PxXOVZ4QhL.js" />
+      <file href="html5/data/js/6q2NEfY3eKL.js" />
+      <file href="html5/data/js/6RQYyiVyuMN.js" />
+      <file href="html5/data/js/6VO4eMwXnHK.js" />
+      <file href="html5/data/js/6VSaUdZQm2g.js" />
+      <file href="html5/data/js/6Xc5Ssy88V3.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
